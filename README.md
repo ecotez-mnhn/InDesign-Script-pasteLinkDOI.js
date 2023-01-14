@@ -1,15 +1,15 @@
 # InDesign-Script-pasteLinkDOI.js
 This script let you copy a DOI on internet and paste and link it in via a simple touch in InDesign
 
-The copied DOI can have the following format:
+The copied DOI can have the following formats:
 DOI: 10.5252/geodiversitas2022v44a33
 http://dx.doi.org/10.5252/geodiversitas2022v44a33
 https://dx.doi.org/10.5252/geodiversitas2022v44a33
 
-It also takes in consideration the spaces included in the address, and delete them.
+It also deletes the spaces included in the address, and the potential last dot '.' (when the DOI is placed at the end of a sentence).
 
-It paste and link the DOI in the unique following format:
+It pastes and links the DOI in the following format:
 
 https://doi.org/10.5252/geodiversitas2022v44a33
 
-That is the format recommended by CrossREF, and that then should be used.
+That is the format recommended by CrossREF, and should then be used.
