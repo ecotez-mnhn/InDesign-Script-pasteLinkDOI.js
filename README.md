@@ -5,10 +5,10 @@ The copied DOI can have the following formats:
 DOI: 10.5252/geodiversitas2022v44a33
 http://dx.doi.org/10.5252/geodiversitas2022v44a33
 https://dx.doi.org/10.5252/geodiversitas2022v44a33
+or only 
+10.5252/geodiversitas2022v44a33
 
-It also deletes the spaces included in the address, and the potential last dot '.' (when the DOI is placed at the end of a sentence).
-
-It pastes and links the DOI in the following format:
+The script pastes and links the DOI in the following format:
 
 https://doi.org/10.5252/geodiversitas2022v44a33
 
